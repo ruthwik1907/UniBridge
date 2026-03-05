@@ -131,8 +131,6 @@ Tools
 
 Git
 
-GitHub
-
 Vite Development Server
 
 📂 Project Structure
